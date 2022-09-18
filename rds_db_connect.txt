@@ -1,0 +1,4 @@
+rds for digital books
+1.instancename:digitalbooksdb
+2.master username:admin
+3.password:digital$123book

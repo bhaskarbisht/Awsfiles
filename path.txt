@@ -1,0 +1,1 @@
+http://ec2-18-236-85-75.us-west-2.compute.amazonaws.com:8761/          -Eureka
